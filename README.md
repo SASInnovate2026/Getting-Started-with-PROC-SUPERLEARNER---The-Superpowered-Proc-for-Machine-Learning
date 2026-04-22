@@ -1,6 +1,5 @@
 # Getting-Started-with-PROC-SUPERLEARNER---The-Superpowered-Proc-for-Machine-Learning
-Getting Started with PROC SUPERLEARNER - The Superpowered Proc for Machine Learning
-
+Machine learning is a branch of artificial intelligence that allows computers to learn from data through iterations. Different types of algorithms are trained on large datasets, and the system then uses data to make predictions, identify patterns, and make decisions leading to improved business performance over time. Come see a new procedure in SAS Viya called PROC SUPERLEARNER. This procedure constructs a predictive model that combines multiple predictions from machine learning models.
 ## Important Information
 
 This site provides the collateral for a specific SAS Innovate 2026 session provided by SAS Education.  The instructions in these pages are specific to the workshop and should not be considered a replacement for the official [SAS Documentation](http://documentation.sas.com).  Some parts of these instructions will only work correctly in the Lab environments provided by SAS Education.
